@@ -633,6 +633,50 @@ video {
   margin-top: 66px;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.ml-\[180px\] {
+  margin-left: 180px;
+}
+
+.ml-\[250px\] {
+  margin-left: 250px;
+}
+
+.ml-\[330px\] {
+  margin-left: 330px;
+}
+
+.ml-\[325px\] {
+  margin-left: 325px;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.mt-1 {
+  margin-top: 0.25rem;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -653,9 +697,7 @@ video {
   height: 70px;
 }
 
-.h-4 {
-  height: 1rem;
-}
+
 
 .w-\[100\%\] {
   width: 100%;
@@ -769,6 +811,22 @@ video {
   width: 40%;
 }
 
+.w-\[970px\] {
+  width: 970px;
+}
+
+.w-\[940px\] {
+  width: 940px;
+}
+
+.w-\[32px\] {
+  width: 32px;
+}
+
+.w-\[650px\] {
+  width: 650px;
+}
+
 .content-center {
   align-content: center;
 }
@@ -813,9 +871,7 @@ video {
   border-width: 1px;
 }
 
-.border-b-2 {
-  border-bottom-width: 2px;
-}
+
 
 .border-b-\[1px\] {
   border-bottom-width: 1px;
@@ -849,39 +905,7 @@ video {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
 }
 
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
 
-.py-6 {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-}
-
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
-.px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-.py-8 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
-.py-12 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
 }
 
 .text-center {
@@ -1021,6 +1045,11 @@ video {
   outline-offset: 2px;
 }
 
+.text-\[\#848892\] {
+  --tw-text-opacity: 1;
+  color: rgb(132 136 146 / var(--tw-text-opacity, 1));
+}
+
 .hover\:bg-green-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(22 163 74 / var(--tw-bg-opacity, 1));
@@ -1039,22 +1068,13 @@ video {
     margin-top: 85px;
   }
 
-  .mayda\:flex {
-    display: flex;
-  }
 
-  .mayda\:hidden {
-    display: none;
-  }
 
   .mayda\:text-\[38px\] {
     font-size: 38px;
   }
 
-  .mayda\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
+
 }
 
 @media (min-width: 640px) {
@@ -1089,8 +1109,7 @@ video {
     margin-left: 80px;
   }
 
-  .md\:mt-40 {
-    margin-top: 10rem;
+
   }
 
   .md\:mt-\[80px\] {
@@ -1113,8 +1132,7 @@ video {
     width: 403px;
   }
 
-  .md\:w-\[674px\] {
-    width: 674px;
+
   }
 
   .md\:gap-\[30px\] {
