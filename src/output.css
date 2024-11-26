@@ -798,6 +798,50 @@ video {
   margin-top: 1.5rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.ml-\[180px\] {
+  margin-left: 180px;
+}
+
+.ml-\[250px\] {
+  margin-left: 250px;
+}
+
+.ml-\[330px\] {
+  margin-left: 330px;
+}
+
+.ml-\[325px\] {
+  margin-left: 325px;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.mt-1 {
+  margin-top: 0.25rem;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -828,6 +872,10 @@ video {
 
 .h-\[70px\] {
   height: 70px;
+}
+
+.h-\[32px\] {
+  height: 32px;
 }
 
 .w-\[674px\] {
@@ -950,6 +998,22 @@ video {
   width: 1200px;
 }
 
+.w-\[970px\] {
+  width: 970px;
+}
+
+.w-\[940px\] {
+  width: 940px;
+}
+
+.w-\[32px\] {
+  width: 32px;
+}
+
+.w-\[650px\] {
+  width: 650px;
+}
+
 .content-center {
   align-content: center;
 }
@@ -1002,6 +1066,10 @@ video {
   gap: 70px;
 }
 
+.gap-\[20px\] {
+  gap: 20px;
+}
+
 .rounded-\[100px\] {
   border-radius: 100px;
 }
@@ -1031,6 +1099,11 @@ video {
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
 .text-center {
@@ -1119,6 +1192,11 @@ video {
   color: rgb(175 179 187 / var(--tw-text-opacity, 1));
 }
 
+.text-\[\#848892\] {
+  --tw-text-opacity: 1;
+  color: rgb(132 136 146 / var(--tw-text-opacity, 1));
+}
+
 .hover\:bg-green-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(22 163 74 / var(--tw-bg-opacity, 1));
@@ -1149,6 +1227,14 @@ video {
     margin-top: 85px;
   }
 
+  .mayda\:ml-32 {
+    margin-left: 8rem;
+  }
+
+  .mayda\:ml-24 {
+    margin-left: 6rem;
+  }
+
   .mayda\:hidden {
     display: none;
   }
@@ -1163,6 +1249,10 @@ video {
 
   .mayda\:text-\[38px\] {
     font-size: 38px;
+  }
+
+  .mayda\:text-\[46px\] {
+    font-size: 46px;
   }
 
   .mayda\:text-\[\] {
@@ -1227,6 +1317,14 @@ video {
     margin-left: 10rem;
   }
 
+  .md\:ml-\[330px\] {
+    margin-left: 330px;
+  }
+
+  .md\:ml-\[325px\] {
+    margin-left: 325px;
+  }
+
   .md\:flex {
     display: flex;
   }
@@ -1285,6 +1383,18 @@ video {
 
   .md\:w-\[407px\] {
     width: 407px;
+  }
+
+  .md\:w-\[970px\] {
+    width: 970px;
+  }
+
+  .md\:w-\[940px\] {
+    width: 940px;
+  }
+
+  .md\:w-\[650px\] {
+    width: 650px;
   }
 
   .md\:gap-\[30px\] {
