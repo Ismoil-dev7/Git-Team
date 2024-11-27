@@ -1325,6 +1325,10 @@ video {
     margin-left: 325px;
   }
 
+  .md\:ml-\[30\%\] {
+    margin-left: 30%;
+  }
+
   .md\:flex {
     display: flex;
   }
